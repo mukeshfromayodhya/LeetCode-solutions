@@ -19,6 +19,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0367-valid-perfect-square](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Newton's Method
 |  |
 | ------- |
@@ -31,6 +32,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Interactive
 |  |
 | ------- |
