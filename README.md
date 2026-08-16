@@ -18,6 +18,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -39,6 +40,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
 | ------- |
