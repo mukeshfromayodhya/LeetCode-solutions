@@ -36,6 +36,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0704-binary-search](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1480-running-sum-of-1d-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Interactive
 |  |
 | ------- |
@@ -45,4 +46,8 @@ This repository contains the LeetCode problems I've solved while learning Data S
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
