@@ -6,6 +6,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
 ## Binary Search
@@ -59,6 +60,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -68,4 +70,8 @@ This repository contains the LeetCode problems I've solved while learning Data S
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
