@@ -33,6 +33,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0004-median-of-two-sorted-arrays](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0704-binary-search) |
@@ -74,4 +75,8 @@ This repository contains the LeetCode problems I've solved while learning Data S
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0013-roman-to-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
