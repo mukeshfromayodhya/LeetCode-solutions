@@ -30,6 +30,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -80,6 +81,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0041-first-missing-positive) |
 ## Dynamic Programming
