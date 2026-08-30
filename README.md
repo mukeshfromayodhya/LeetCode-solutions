@@ -44,6 +44,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -71,6 +72,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0013-roman-to-integer](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0020-valid-parentheses) |
+| [1436-destination-city](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1436-destination-city) |
 ## Stack
 |  |
 | ------- |
@@ -85,6 +87,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0001-two-sum](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0041-first-missing-positive) |
+| [1436-destination-city](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1436-destination-city) |
 ## Dynamic Programming
 |  |
 | ------- |
