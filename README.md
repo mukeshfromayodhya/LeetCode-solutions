@@ -33,6 +33,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | ------- |
 | [0001-two-sum](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -70,6 +71,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -133,4 +135,8 @@ This repository contains the LeetCode problems I've solved while learning Data S
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
