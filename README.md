@@ -40,6 +40,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0048-rotate-image) |
+| [0078-subsets](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -115,6 +116,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0136-single-number) |
 ## Matrix
 |  |
@@ -142,4 +144,8 @@ This repository contains the LeetCode problems I've solved while learning Data S
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
