@@ -40,6 +40,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0136-single-number) |
@@ -76,6 +77,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | ------- |
 | [0011-container-with-most-water](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -133,6 +135,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -151,4 +154,12 @@ This repository contains the LeetCode problems I've solved while learning Data S
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0078-subsets) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
