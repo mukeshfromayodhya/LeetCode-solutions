@@ -36,6 +36,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0011-container-with-most-water](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -79,6 +80,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | ------- |
 | [0011-container-with-most-water](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0283-move-zeroes) |
@@ -140,6 +142,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
