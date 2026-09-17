@@ -42,6 +42,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0068-text-justification](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0075-sort-colors) |
@@ -148,6 +149,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | ------- |
 | [0015-3sum](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -167,6 +169,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 |  |
 | ------- |
 | [0046-permutations](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0784-letter-case-permutation) |
