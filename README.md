@@ -38,6 +38,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0015-3sum](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0041-first-missing-positive) |
@@ -85,6 +86,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0015-3sum](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0283-move-zeroes) |
 ## String
