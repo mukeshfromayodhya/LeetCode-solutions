@@ -98,6 +98,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0068-text-justification](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0068-text-justification) |
 | [0784-letter-case-permutation](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0784-letter-case-permutation) |
 | [1436-destination-city](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1436-destination-city) |
+| [3498-reverse-degree-of-a-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -130,6 +131,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | ------- |
 | [0068-text-justification](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0068-text-justification) |
 | [1920-build-array-from-permutation](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1920-build-array-from-permutation) |
+| [3498-reverse-degree-of-a-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
