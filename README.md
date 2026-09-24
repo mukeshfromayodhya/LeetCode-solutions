@@ -11,6 +11,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0069-sqrtx](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
 | [3524-find-x-value-of-array-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [1672-richest-customer-wealth](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1920-build-array-from-permutation) |
 | [3524-find-x-value-of-array-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Interactive
 |  |
 | ------- |
