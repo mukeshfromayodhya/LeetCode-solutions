@@ -100,6 +100,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0013-roman-to-integer](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0068-text-justification) |
 | [0344-reverse-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0784-letter-case-permutation](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0784-letter-case-permutation) |
@@ -118,6 +119,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
@@ -133,6 +135,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3524-find-x-value-of-array-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Trie
@@ -185,6 +188,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0077-combinations) |
