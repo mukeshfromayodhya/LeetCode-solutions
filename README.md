@@ -73,6 +73,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [1672-richest-customer-wealth](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3524-find-x-value-of-array-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Interactive
@@ -140,6 +141,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0219-contains-duplicate-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1436-destination-city) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -220,4 +222,12 @@ This repository contains the LeetCode problems I've solved while learning Data S
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
