@@ -12,6 +12,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0367-valid-perfect-square](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
 | [3524-find-x-value-of-array-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3886-sum-of-sortable-integers](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3524-find-x-value-of-array-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3886-sum-of-sortable-integers](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Interactive
 |  |
 | ------- |
@@ -186,6 +188,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0075-sort-colors](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3886-sum-of-sortable-integers](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Counting Sort
 |  |
 | ------- |
@@ -222,6 +225,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
