@@ -11,6 +11,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0069-sqrtx](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3886-sum-of-sortable-integers](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -63,6 +64,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0219-contains-duplicate-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -191,6 +193,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0047-permutations-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3886-sum-of-sortable-integers](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Counting Sort
