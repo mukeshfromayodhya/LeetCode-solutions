@@ -52,6 +52,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0046-permutations](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0075-sort-colors) |
@@ -115,6 +116,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0014-longest-common-prefix](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0068-text-justification) |
 | [0344-reverse-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0771-jewels-and-stones) |
@@ -144,6 +146,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0003-longest-substring-without-repeating-characters](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0771-jewels-and-stones](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0771-jewels-and-stones) |
@@ -191,6 +194,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0015-3sum](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
