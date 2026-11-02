@@ -118,6 +118,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0022-generate-parentheses](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0068-text-justification) |
+| [0242-valid-anagram](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0784-letter-case-permutation) |
@@ -149,6 +150,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0049-group-anagrams](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1436-destination-city) |
@@ -197,6 +199,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0049-group-anagrams](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3886-sum-of-sortable-integers](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3886-sum-of-sortable-integers) |
