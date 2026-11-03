@@ -14,6 +14,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
@@ -82,6 +83,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3524-find-x-value-of-array-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Interactive
 |  |
