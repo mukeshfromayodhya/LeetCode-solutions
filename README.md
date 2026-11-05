@@ -30,6 +30,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0704-binary-search](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Newton's Method
 |  |
 | ------- |
@@ -73,6 +74,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1470-shuffle-the-array) |
@@ -111,6 +113,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0075-sort-colors](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -206,6 +209,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0242-valid-anagram](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3886-sum-of-sortable-integers](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Counting Sort
 |  |
