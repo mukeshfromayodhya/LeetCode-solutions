@@ -129,6 +129,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0179-largest-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0784-letter-case-permutation) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -160,6 +161,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0217-contains-duplicate](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1436-destination-city) |
@@ -221,6 +223,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Monotonic Stack
 |  |
@@ -265,4 +268,8 @@ This repository contains the LeetCode problems I've solved while learning Data S
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
