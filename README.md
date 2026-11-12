@@ -86,6 +86,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [2747-count-zero-request-servers](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3524-find-x-value-of-array-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3693-climbing-stairs-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3693-climbing-stairs-ii) |
