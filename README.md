@@ -12,6 +12,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0367-valid-perfect-square](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0509-fibonacci-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [3524-find-x-value-of-array-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -176,6 +177,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0053-maximum-subarray](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [3524-find-x-value-of-array-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Trie
@@ -275,4 +277,12 @@ This repository contains the LeetCode problems I've solved while learning Data S
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
