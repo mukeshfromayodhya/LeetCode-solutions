@@ -143,6 +143,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1436-destination-city](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1436-destination-city) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -195,6 +196,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | ------- |
 | [0068-text-justification](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0068-text-justification) |
 | [1920-build-array-from-permutation](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1920-build-array-from-permutation) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
