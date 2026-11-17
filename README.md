@@ -124,6 +124,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0283-move-zeroes](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String
 |  |
 | ------- |
@@ -144,6 +145,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [1436-destination-city](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1436-destination-city) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -185,6 +187,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3524-find-x-value-of-array-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Trie
