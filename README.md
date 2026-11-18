@@ -146,6 +146,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
