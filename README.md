@@ -86,6 +86,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1672-richest-customer-wealth](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1920-build-array-from-permutation) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -236,6 +237,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2747-count-zero-request-servers) |
 | [3886-sum-of-sortable-integers](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Counting Sort
@@ -253,6 +255,7 @@ This repository contains the LeetCode problems I've solved while learning Data S
 | [0011-container-with-most-water](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/0179-largest-number) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mukeshfromayodhya/LeetCode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Backtracking
 |  |
 | ------- |
